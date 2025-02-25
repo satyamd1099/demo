@@ -7,3 +7,5 @@ def model1():
 
 def model2():
     print('Model 2')
+
+print('Model 2 is giving 90\% \of accouracy')
